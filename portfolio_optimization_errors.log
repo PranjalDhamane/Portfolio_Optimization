@@ -1,0 +1,17 @@
+ERROR:root:Unhandled exception: 'numpy.float64' object has no attribute 'iloc'
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['SP500']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+ERROR:root:Error fetching data: No data fetched for the provided tickers and date range.
+ERROR:root:Unhandled exception: 'numpy.float64' object has no attribute 'iloc'
+ERROR:yfinance:
+1 Failed download:
+ERROR:yfinance:['S&P500']: YFTzMissingError('$%ticker%: possibly delisted; no timezone found')
+ERROR:root:Error fetching data: No data fetched for the provided tickers and date range.
+ERROR:root:Unhandled exception: 'AAL'
+ERROR:root:Unhandled exception: 'AAL'
+ERROR:root:Unhandled exception: 'AAL'
+ERROR:root:Unhandled exception: 'AAPL'
+ERROR:root:Unhandled exception: 'AAPL'
+ERROR:root:Unhandled exception: 'AAPL'
+ERROR:root:Unhandled exception: 'AAPL'
