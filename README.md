@@ -1,6 +1,3 @@
-Here’s an enhanced version of your README that refines language, adds clarity, and improves structure. The explanations for each section are retained but streamlined for readability.
-
-```markdown
 # Portfolio Optimization App
 
 The **Portfolio Optimization App** is a web-based tool built with Streamlit for analyzing and optimizing stock portfolios. It supports both single-ticker analysis and multi-ticker portfolio optimization, using key financial metrics to assess performance, manage risk, and enable informed investment decisions.
@@ -135,5 +132,3 @@ The app calculates and displays several critical financial metrics:
 The **Portfolio Optimization App** provides valuable insights and visualizations for single-stock and multi-ticker portfolio analysis. Leveraging financial theories like Modern Portfolio Theory and risk-adjusted metrics, this tool helps investors make well-informed decisions to effectively manage and optimize their portfolios.
 
 ```
-
-This version makes explanations more concise and improves the flow to enhance readability, especially for users unfamiliar with finance. Let me know if there are specific areas you’d like to expand or simplify further!
