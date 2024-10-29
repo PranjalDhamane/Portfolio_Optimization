@@ -131,4 +131,3 @@ The app calculates and displays several critical financial metrics:
 
 The **Portfolio Optimization App** provides valuable insights and visualizations for single-stock and multi-ticker portfolio analysis. Leveraging financial theories like Modern Portfolio Theory and risk-adjusted metrics, this tool helps investors make well-informed decisions to effectively manage and optimize their portfolios.
 
-```
